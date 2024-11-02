@@ -1,0 +1,2 @@
+MyWindow < MainWindow
+  size: 500 500
